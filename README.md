@@ -1,48 +1,63 @@
-## README
+# CS120 Final Project – Grading Guide
 
-## CS120-Survival-Guide
-A collaborative educational campaign created for Professor Malik Stalbert’s CS120 course to help future students succeed through course guidance, teaching methodology, responsible AI use, and proven strategies for success.
+This repository contains all required materials for the **Mission Receipt** and our **Group Final Project** assignments. Please use the guide below to locate the materials for grading.
 
-## Overview
-This project is an educational campaign designed to help future CS120 learners understand the course structure, resources, and strategies for success.
+---
 
-## Contents
-- Course Expectations 
-- Strategies for Success
-- Course Resources
-- Responsible AI Use
-- Productive Struggle
-- Teaching Methodology
-- Attention First & ADDP2P
-- Course Promotion & Guidance
-- Learning in an AI Driven World
-- Responsibel AI Use
+## Mission Receipt Grading
 
-## Repository Deliverables
+For the **Mission Receipt Project**, please grade the following:
 
-This repository includes:
+### Discord Proof  Mission Receipt
+This folder contains our Discord proof showing the **Mission Receipt** and **GitHub repository link** posted to the class Discord.
 
-- Teaching Methodology materials
-- Student success strategies
-- Course resources
-- Responsible AI guidance
-- Final project documentation
-- Mission Receipt and submission proof
+### Final Mission Receipt
+This file is our completed **Final Mission Receipt** for grading.
 
-## Course Information
+### Docs 
+This folder contains our Final Group Contract
 
-Course: CS120  
-Professor: Malik Stalbert  
-Project: Final Crasher’s Sale Deal — Boss Battle
+---
 
-## Created By
-- Cecilia Madariaga
-- Lacey Merced
-- Destiny Johnson
-- Kristen Ramirez
-- Martha Casas
-- Angel Bautista 
-- Alexa Lopez
-- Kimberly Aguilar
-- Matthew Lee
-- Roxana Cota
+## Group Final Project Grading
+
+For our **Group Final Project**, please see the following:
+
+### YouTube Playlist
+The **YouTube playlist link** can be found in the repository links on the right side of the GitHub page.
+
+The playlist link is also included inside the **Documents** folder for easy access.
+
+### Documents
+
+The **Documents** folder contains:
+
+1. **Group Contract**
+2. **Written Introduction**
+3. **Context Index**
+4. **Concluding Summary**
+5. **Final Checklist**
+6. **YouTube Playlist Link**
+
+### Discord Proof – YouTube
+This folder contains our proof that the **YouTube playlist was posted to the Discord class chat**.
+
+### Discord Proof – Mission Receipt
+This folder contains our proof that the **Mission Receipt was posted to the Discord class chat**, as well as our **GitHub repository link**.
+
+---
+
+## Quick Grading Guide
+
+### Mission Receipt
+- Final Mission Receipt
+- Discord Proof – Mission Receipt
+
+### Group Final Project
+- Documents
+- YouTube Playlist
+- Discord Proof – YouTube
+
+---
+
+**Thank you for reviewing our final project! Essentially ALL folders and documents would like to be considered for the final project**
