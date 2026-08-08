@@ -1,0 +1,4 @@
+ Concluding Summary
+The CS120 Survival Guide campaign was created by current students to support future CS120 students by sharing practical advice, lessons learned, and effective strategies for success. Each video focuses on a different aspect of the course, including expectations, available resources, responsible AI use, productive struggle, teaching methodology, collaboration, and effective learning habits.
+Although each presenter covered a unique topic, together these videos demonstrate that success in CS120 comes from actively engaging with course resources, communicating with classmates, instructor, practicing problem-solving skills, attention to detail, and maintaining a growth mindset. By combining our experiences into one educational campaign, we hope future students feel more prepared, confident, and supported throughout the course.
+

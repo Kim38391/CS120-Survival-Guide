@@ -10,3 +10,4 @@ Welcome to the CS120 Survival Guide, a student-created educational campaign desi
 Throughout this campaign, current CS120 students share their experiences, strategies, and lessons learned while completing the course. Each video focuses on a different aspect of CS120, providing practical advice and insights that we hope will make the course easier to understand and navigate.
 Our goal is not only to explain the course, but also to encourage future students to take advantage of the many resources available, communicate with classmates, the instructor, and develop confidence as learners. Every member of our team contributed by creating an original video based on an assigned course topic.
 We hope this campaign serves as a helpful resource for future CS120 students and demonstrates how collaboration, preparation, and consistent effort can contribute to success throughout the course.
+
