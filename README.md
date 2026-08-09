@@ -1,6 +1,8 @@
-# CS120 Final Project – Grading Guide
+# Project: CS120 Boss Battle/Final Crasher’s Sale Deal - Grading Guide
 
-This repository contains all required materials for the **Mission Receipt** and our **Group Final Project** assignments. Please use the guide below to locate the materials for grading.
+Submission Type: Group Final Project / Alternative Final
+
+This repository contains all required materials for the **Mission Receipt** and our Group Final Project for the **Boss Battle – Final Crasher’s Sale Deal**. Please use the guide below to locate the materials for grading.
 
 ---
 
@@ -18,7 +20,7 @@ This file is our completed **Final Mission Receipt** for grading.
 This folder contains our Final Group Contract
 
 ---
-
+**Boss Battle – Final Crasher’s Sale Deal**.
 ## Group Final Project Grading
 
 For our **Group Final Project**, please see the following:
